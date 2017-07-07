@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FacebookHackerCup.iml" filepath="$PROJECT_DIR$/FacebookHackerCup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facebook-hacker-cup.iml" filepath="$PROJECT_DIR$/facebook-hacker-cup.iml" />
     </modules>
   </component>
 </project>
